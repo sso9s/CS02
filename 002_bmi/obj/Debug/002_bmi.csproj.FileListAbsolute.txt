@@ -1,0 +1,11 @@
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\bin\Debug\002_bmi.exe.config
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\bin\Debug\002_bmi.exe
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\bin\Debug\002_bmi.pdb
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\002_bmi.csproj.AssemblyReference.cache
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\002_bmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\_002_bmi.Form1.resources
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\_002_bmi.Properties.Resources.resources
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\002_bmi.csproj.GenerateResource.cache
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\002_bmi.csproj.CoreCompileInputs.cache
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\002_bmi.exe
+C:\Users\강소희\OneDrive\바탕 화면\CS02\002_bmi\obj\Debug\002_bmi.pdb

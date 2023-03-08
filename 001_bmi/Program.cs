@@ -18,8 +18,12 @@ namespace _001_bmi
             Console.Write("체중(kg): ");
             weight = double.Parse(Console.ReadLine());
 
-            double bmi = weight / (height / 100 * height / 100);
-            Console.WriteLine("BMI = " + bmi);
+            double bmi = weight / (height / 100 * height / 100);            
+            Console.WriteLine("BMI = " + bmi + "입니다.");
+            Console.WriteLine("BMI = {0}입니다.", bmi); // 매개변수가 많아질 수로 이 방법이 편함
+
+            // 문자열 + 문자열 -> 문자열
+            // 문자열 + 숫자 -> 문자열
         }
     }
 }
